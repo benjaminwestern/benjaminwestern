@@ -29,9 +29,7 @@ ___
 
 ## Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Notes-Obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Terminal-Warp-informational?style=for-the-badge&logo=warp&logoColor=white&color=blue)
