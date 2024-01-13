@@ -36,4 +36,4 @@ ___
 
 ![](https://img.shields.io/badge/Terminal-Warp-informational?style=for-the-badge&logo=warp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Tmux-informational?style=for-the-badge&logo=tmux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Multiplexer-Tmux-informational?style=for-the-badge&logo=tmux&logoColor=white&color=blue)
