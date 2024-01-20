@@ -7,7 +7,7 @@ ___
 -   I’ve been reigning over clouds (the data ones) at Riley an NCS Company for over 3 years.
 -   A decade in IT, and yes, I remember when clouds were just in the sky.
 -   My toolkit? Data, Analytics, AI, and BI. Yes, I speak fluent data.
--   I’m proficient in Golang, Python, and JavaScript. Also, I’m adept in Terraform and Dataform for infrastructure and data warehouse as code needs.
+-   I’m proficient in Golang, Python, SQL and JavaScript. Also, I’m adept in Terraform and Dataform for infrastructure and data warehouse as code needs.
 ___
 
 🚀 **What I Do:**
